@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ReemaSherin
-- 👀 I’m interested in Frontend and Backend Development
+- 👀 I’m interested in Backend development and Artificial Intelleigence
 - 🌱 I’m currently learning Artificial Intelleigence and Machine Learning
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Artificial Intelleigence and Machine Learning Projects
+- 📫 How to reach me m.reemasherin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
